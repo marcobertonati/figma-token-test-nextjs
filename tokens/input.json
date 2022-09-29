@@ -1,0 +1,38 @@
+{
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "dark",
+      "type": "other"
+    },
+    "2": {
+      "value": "light",
+      "type": "other"
+    }
+  },
+  "theme": {
+    "fg": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "bg": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "colors": {
+    "white": {
+      "value": "#ffffff",
+      "type": "color",
+      "description": "Color white brand"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color",
+      "description": "Color black brand"
+    }
+  }
+}
