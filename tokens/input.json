@@ -15,7 +15,7 @@
   },
   "theme": {
     "fg": {
-      "value": "#000000",
+      "value": "#6d6d6d",
       "type": "color"
     },
     "bg": {
@@ -30,7 +30,7 @@
       "description": "Color white brand"
     },
     "black": {
-      "value": "#000000",
+      "value": "#6d6d6d",
       "type": "color",
       "description": "Color black brand"
     }
