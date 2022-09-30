@@ -15,22 +15,22 @@
   },
   "theme": {
     "fg": {
-      "value": "#6d6d6d",
+      "value": "#242424",
       "type": "color"
     },
     "bg": {
-      "value": "#ffffff",
+      "value": "#b7b7b7",
       "type": "color"
     }
   },
   "colors": {
     "white": {
-      "value": "#ffffff",
+      "value": "#b7b7b7",
       "type": "color",
       "description": "Color white brand"
     },
     "black": {
-      "value": "#6d6d6d",
+      "value": "#242424",
       "type": "color",
       "description": "Color black brand"
     }
