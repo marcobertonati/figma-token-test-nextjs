@@ -1,14 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Fri, 30 Sep 2022 03:40:16 GMT
+ * Generated on Mon, 03 Oct 2022 19:23:48 GMT
  */
 
 :root {
   --token-set-order-0: global;
   --token-set-order-1: dark;
   --token-set-order-2: light;
-  --theme-fg: #f6ff56;
-  --theme-bg: #ff6c6c;
-  --colors-white: #ff6c6c;
-  --colors-black: #f6ff56;
+  --theme-fg: #2f2f2f;
+  --theme-bg: #fff;
+  --colors-white: #fff;
+  --colors-black: #2f2f2f;
 }
